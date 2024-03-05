@@ -8,4 +8,14 @@ body {
 
 .container {
     background-color: #1F2937;
+
+}
+
+.sign-up-button {
+    padding: 8px;
+    margin: 1px;
+    border-radius: 8px;
+    box-sizing: border-box;
+    background-color: blue;
+    color: white;
 }
